@@ -1,0 +1,5 @@
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\bin\Release\SuperSimpleStocks.exe.config
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\bin\Release\SuperSimpleStocks.exe
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\bin\Release\SuperSimpleStocks.pdb
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\obj\Release\SuperSimpleStocks.exe
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\obj\Release\SuperSimpleStocks.pdb

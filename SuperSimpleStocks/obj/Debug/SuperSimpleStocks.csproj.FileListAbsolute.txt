@@ -1,0 +1,6 @@
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe.config
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.exe
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\bin\Debug\SuperSimpleStocks.pdb
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.csprojResolveAssemblyReference.cache
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.exe
+C:\Users\jbruce\Desktop\SuperSimpleStocks\SuperSimpleStocks\obj\Debug\SuperSimpleStocks.pdb
